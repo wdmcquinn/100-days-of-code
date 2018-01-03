@@ -12,5 +12,9 @@ I was able to get the basic html and css layout done and a little of the javascr
 
 **Thoughts:** I worked on mostly the function to detect a win today. Im not sure its the most elegant way to do it but it seems to be more accurate and faster than some of the ways i tried. I also fixed a bug on the reset function and found out how to delay a function from firing using setTimeout. I used this to display a Message to the user before resetting the game.
 
+### Day 2: January 3rd, 2018
+**Today's Progress: Finished up the first version of my FCC - Tic Tac Tow Project.
+
+**Thoughs:** In the future i would like to come back to this project and try to implement a better AI. The next project is simon. It looks like there will be a lot of new things to implement.
 
 **Link to work:** [Tic Tac Toe](https://codepen.io/wdmcquinn/full/rpwOym/)
