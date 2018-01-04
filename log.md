@@ -22,4 +22,4 @@ I was able to get the basic html and css layout done and a little of the javascr
 ### Day 3: January 4th, 2018
 **Today's Progress:** Start on the layout for the simon game.
 
-**Thoughs:** First things firt is going to be to catch up on Flexbox for the layout.
+**Thoughs:** First things first is going to be to catch up on Flexbox for the layout.
