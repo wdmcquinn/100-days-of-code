@@ -18,3 +18,8 @@ I was able to get the basic html and css layout done and a little of the javascr
 **Thoughs:** In the future i would like to come back to this project and try to implement a better AI. The next project is simon. It looks like there will be a lot of new things to implement.
 
 **Link to work:** [Tic Tac Toe](https://codepen.io/wdmcquinn/full/rpwOym/)
+
+### Day 3: January 4th, 2018
+**Today's Progress:** Start on the layout for the simon game.
+
+**Thoughs:** First things firt is going to be to catch up on Flexbox for the layout.
