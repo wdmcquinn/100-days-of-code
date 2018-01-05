@@ -23,3 +23,12 @@ I was able to get the basic html and css layout done and a little of the javascr
 **Today's Progress:** Start on the layout for the simon game.
 
 **Thoughs:** First things first is going to be to catch up on Flexbox for the layout.
+
+
+### Day 4: January 5th, 2018
+**Today's Progress:** Spent today working on my HTML and CSS for the simon game.
+
+**Thoughts:** Tomorrow I will try to finish the layout and start on the Javascript.
+
+
+**Link to work:** [Simon Game](https://codepen.io/wdmcquinn/full/qpPrmM/)
