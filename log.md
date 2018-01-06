@@ -30,5 +30,11 @@ I was able to get the basic html and css layout done and a little of the javascr
 
 **Thoughts:** Tomorrow I will try to finish the layout and start on the Javascript.
 
+### Day 5: January 6th, 2018
+
+**Today's Progress:** Finished up the HTML and most of the css for the simon priject. 
+got a good start on the Javascript as well.
+
+**Thoughts:** I noticed today that I was able to complete more in less time. It seems like im not spending as much time looking things up. 
 
 **Link to work:** [Simon Game](https://codepen.io/wdmcquinn/full/qpPrmM/)
