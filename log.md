@@ -37,4 +37,17 @@ got a good start on the Javascript as well.
 
 **Thoughts:** I noticed today that I was able to complete more in less time. It seems like im not spending as much time looking things up. 
 
+### Day 6: January 7th, 2018
+
+**Today's Progress:** Worked on some of the javascript for my simon project.
+
+**Thoughts:** Will need a good way to flash the buttons for the AI. Im thinking about a css class and then adding the class and removeing it for each element in the array.
+
 **Link to work:** [Simon Game](https://codepen.io/wdmcquinn/full/qpPrmM/)
+
+### Day 7: January 8th, 2018
+
+**Today's Progress:** Today i watched some intros to contributing on github. I spend some time looking for a project i can contribute to.
+
+
+
