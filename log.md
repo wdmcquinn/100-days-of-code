@@ -49,5 +49,12 @@ got a good start on the Javascript as well.
 
 **Today's Progress:** Today i watched some intros to contributing on github. I spend some time looking for a project i can contribute to.
 
+### Day 8: January 9th, 2018
 
+**Today'# Progrsss:** Had a lot to do around the house. i managed to do a few lessons on flexbox and helped Destiny with some Javascript woes she was going theough.
+
+### Day 9: Januaru 10th, 2018
+**Today's Progress:**  Went through the introduction to the grow witb google program.
+
+**Thoughts:** So excited. Infounf out i was selected fornthe Grow with Google Code Challenge Scholarship. I have 3 months to complete the first section and a chance to be invited to another 6 month peogram at the end of the first.
 
