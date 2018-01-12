@@ -56,5 +56,10 @@ got a good start on the Javascript as well.
 ### Day 9: Januaru 10th, 2018
 **Today's Progress:**  Went through the introduction to the grow witb google program.
 
-**Thoughts:** So excited. Infounf out i was selected fornthe Grow with Google Code Challenge Scholarship. I have 3 months to complete the first section and a chance to be invited to another 6 month peogram at the end of the first.
+**Thoughts:** So excited. I found out i was selected fornthe Grow with Google Code Challenge Scholarship. I have 3 months to complete the first section and a chance to be invited to another 6 month peogram at the end of the first.
 
+### Day 10: January 11th, 2018
+
+** Today's Progress:** First day of Grow with Google. 
+
+** Thoughts: ** I setup up slack on my desktop, laptop, and mobile. Also introduced myself and participated in the first AMA in the slack channel.  I completed the first course in the program a few months ago but i am going to review it to be sure. Really want to get the full MWD nano degree.
