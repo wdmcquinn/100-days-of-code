@@ -63,3 +63,8 @@ got a good start on the Javascript as well.
 ** Today's Progress:** First day of Grow with Google. 
 
 ** Thoughts: ** I setup up slack on my desktop, laptop, and mobile. Also introduced myself and participated in the first AMA in the slack channel.  I completed the first course in the program a few months ago but i am going to review it to be sure. Really want to get the full MWD nano degree.
+
+### Day 11: January 14th, 2018
+** Today's Progress:** Working on udacity course.
+
+** Thoughts: ** I had to miss a few days as we have been really busy at home working on a remodel project. I have not gotten to spend more that 20 minutes or so programming for the last 2 days. I am back on track today. I have completed over an hour of the offline first class. It is really interesting so far.
