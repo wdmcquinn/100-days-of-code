@@ -68,3 +68,13 @@ got a good start on the Javascript as well.
 ** Today's Progress:** Working on udacity course.
 
 ** Thoughts: ** I had to miss a few days as we have been really busy at home working on a remodel project. I have not gotten to spend more that 20 minutes or so programming for the last 2 days. I am back on track today. I have completed over an hour of the offline first class. It is really interesting so far.
+### Day 12: January 15th, 2018
+** Today's Progress: ** Started learning how to use vim.
+
+** Thoughts: ** I saw an article that gave me an idea on how to be more mobile. I have started watching videos on tmux and vim. Im thinking about setting up a server at home and using ssh to connect. With vim and tmux i can carry a ipad or surface pro and not worry about taking a laptop.
+
+### Day 13: January 16th, 2018
+** Today's Progress: ** More progress on Service Workers.
+
+**Thoughts:** I worked some more on my udacity course for mobile first. We covered more stuff about service workers. 
+
