@@ -78,3 +78,9 @@ got a good start on the Javascript as well.
 
 **Thoughts:** I worked some more on my udacity course for mobile first. We covered more stuff about service workers. 
 
+### Day 14: January 17th, 2018
+** Today's Progress: ** More work on Service Workers.
+
+**Thoughts:** Worked on service workers again toady. This time it is about ux.
+
+
