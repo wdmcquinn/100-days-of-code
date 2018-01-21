@@ -83,4 +83,26 @@ got a good start on the Javascript as well.
 
 **Thoughts:** Worked on service workers again toady. This time it is about ux.
 
+### Day 15: January 18th, 2018
+** Today's Progress: ** Still working on Service workers today.
+
+
+**Thoughts:** The promise aspect of javascript is confusing. I need to work on it more.
+
+
+### Day 16: January 19th, 2018
+** Today's Progress: ** Getting close to finishing the Service worker portion.
+
+** Thoughts: **  Learing about IndexDB and Caching together.
+
+
+### Day 17: January 20th, 2018
+** Today's Progress: ** Only two more lessons in this section. 
+
+
+### Day 18: January 21st, 2018
+** Today's Progress: **  Finished Offline First
+
+** Thoughts: ** I finished up the section on offline first today. The next seciont deals with learing ES6. I already know a little from the React course i took. Looking forward to getting started.
+
 
