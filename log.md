@@ -60,49 +60,50 @@ got a good start on the Javascript as well.
 
 ### Day 10: January 11th, 2018
 
-** Today's Progress:** First day of Grow with Google. 
+**Today's Progress:** First day of Grow with Google. 
 
-** Thoughts: ** I setup up slack on my desktop, laptop, and mobile. Also introduced myself and participated in the first AMA in the slack channel.  I completed the first course in the program a few months ago but i am going to review it to be sure. Really want to get the full MWD nano degree.
+**Thoughts:** I setup up slack on my desktop, laptop, and mobile. Also introduced myself and participated in the first AMA in the slack channel.  I completed the first course in the program a few months ago but i am going to review it to be sure. Really want to get the full MWD nano degree.
 
 ### Day 11: January 14th, 2018
-** Today's Progress:** Working on udacity course.
+**Today's Progress:** Working on udacity course.
 
-** Thoughts: ** I had to miss a few days as we have been really busy at home working on a remodel project. I have not gotten to spend more that 20 minutes or so programming for the last 2 days. I am back on track today. I have completed over an hour of the offline first class. It is really interesting so far.
+**Thoughts:** I had to miss a few days as we have been really busy at home working on a remodel project. I have not gotten to spend more that 20 minutes or so programming for the last 2 days. I am back on track today. I have completed over an hour of the offline first class. It is really interesting so far.
+
 ### Day 12: January 15th, 2018
-** Today's Progress: ** Started learning how to use vim.
+**Today's Progress:** Started learning how to use vim.
 
-** Thoughts: ** I saw an article that gave me an idea on how to be more mobile. I have started watching videos on tmux and vim. Im thinking about setting up a server at home and using ssh to connect. With vim and tmux i can carry a ipad or surface pro and not worry about taking a laptop.
+**Thoughts:** I saw an article that gave me an idea on how to be more mobile. I have started watching videos on tmux and vim. Im thinking about setting up a server at home and using ssh to connect. With vim and tmux i can carry a ipad or surface pro and not worry about taking a laptop.
 
 ### Day 13: January 16th, 2018
-** Today's Progress: ** More progress on Service Workers.
+**Today's Progress:** More progress on Service Workers.
 
 **Thoughts:** I worked some more on my udacity course for mobile first. We covered more stuff about service workers. 
 
 ### Day 14: January 17th, 2018
-** Today's Progress: ** More work on Service Workers.
+**Today's Progress:** More work on Service Workers.
 
 **Thoughts:** Worked on service workers again toady. This time it is about ux.
 
 ### Day 15: January 18th, 2018
-** Today's Progress: ** Still working on Service workers today.
+**Today's Progress:** Still working on Service workers today.
 
 
 **Thoughts:** The promise aspect of javascript is confusing. I need to work on it more.
 
 
 ### Day 16: January 19th, 2018
-** Today's Progress: ** Getting close to finishing the Service worker portion.
+**Today's Progress:** Getting close to finishing the Service worker portion.
 
-** Thoughts: **  Learing about IndexDB and Caching together.
+**Thoughts:**  Learing about IndexDB and Caching together.
 
 
 ### Day 17: January 20th, 2018
-** Today's Progress: ** Only two more lessons in this section. 
+**Today's Progress:** Only two more lessons in this section. 
 
 
 ### Day 18: January 21st, 2018
-** Today's Progress: **  Finished Offline First
+**Today's Progress:**  Finished Offline First
 
-** Thoughts: ** I finished up the section on offline first today. The next seciont deals with learing ES6. I already know a little from the React course i took. Looking forward to getting started.
+**Thoughts:** I finished up the section on offline first today. The next seciont deals with learing ES6. I already know a little from the React course i took. Looking forward to getting started.
 
 
