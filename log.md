@@ -124,4 +124,10 @@ got a good start on the Javascript as well.
 
 **Today's Progress:** Started the course on current Javascript Syntax
 
+### Day 20: January 23rd, 2018
+
+**Today's Progress:** More ES6 with the Grow with Google Challenge today.
+
+**Thoughts:** Really like literal strings and the new for loops. 
+
 
