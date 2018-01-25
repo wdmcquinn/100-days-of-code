@@ -130,4 +130,13 @@ got a good start on the Javascript as well.
 
 **Thoughts:** Really like literal strings and the new for loops. 
 
+### Day 21: January 24th, 2018
+
+**Today's Progress:** More ES6 with the Grow with Google Challenge today.
+
+### Day 22: January 25th, 2018
+
+**Today's Progress:** More ES6 with and fixed some dependencies on a few of my git hub repos. 
+
+
 
