@@ -138,5 +138,18 @@ got a good start on the Javascript as well.
 
 **Today's Progress:** More ES6 with and fixed some dependencies on a few of my git hub repos. 
 
+### Day 23: January 26th, 2018
+
+**Today's Progress:** Code Fights practice to work on problem solving.
+
+### Day 24: January 27th, 2018
+
+**Today's Progress:** Finished Lesson 6 and Started 7 for the Grow with Google Code Challenge.
+
+### Day 25: January 28th, 2018
+
+**Today's Progress:** Started Javascript30 Challenge.
+
+**Thoughts:** This will give me the oppertunity to alternate between the Google Challenge and the Javascript 30 so i dont get burned out on one. I cloned the Javascript 30 repo and wathched the intro today. Tomorrow will be Google.
 
 
