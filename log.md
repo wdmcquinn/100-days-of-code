@@ -152,4 +152,16 @@ got a good start on the Javascript as well.
 
 **Thoughts:** This will give me the oppertunity to alternate between the Google Challenge and the Javascript 30 so i dont get burned out on one. I cloned the Javascript 30 repo and wathched the intro today. Tomorrow will be Google.
 
+### Day 26: January 29th, 2018
+
+**Today's Progress:** Completed Javascript 30 day 1 also worked on functions for Grow with google.
+
+
+### Day 27: January 30th, 2018
+
+**Today's Progress:** Completed JS30 day 2 and Stared on Javacript Classes in ES6.
+
+### Day 28: January 31st, 2018
+
+**Today's Progress:** JS30 Day 3 and continue on ES6 Classes for GrowWithGoogle
 
