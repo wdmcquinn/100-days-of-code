@@ -165,3 +165,7 @@ got a good start on the Javascript as well.
 
 **Today's Progress:** JS30 Day 3 and continue on ES6 Classes for GrowWithGoogle
 
+### Day 29: February 1st, 2018
+
+**Today's Progress:** JS30 Day 4 and ES6 for GrowWithGoogle plus starting on a tutorial series on youtube by Traversy Media on Nodejs for a upcoming project.
+
