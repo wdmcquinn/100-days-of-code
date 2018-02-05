@@ -169,3 +169,15 @@ got a good start on the Javascript as well.
 
 **Today's Progress:** JS30 Day 4 and ES6 for GrowWithGoogle plus starting on a tutorial series on youtube by Traversy Media on Nodejs for a upcoming project.
 
+### Day 30: February 2nd, 2018
+
+**Today's Progress:** JS30 Day 5 and more ES6
+
+### Day 31: February 3rd, 2018
+
+**Today's Progress:** JS30 Day 6 and worked on timeclock project
+
+### Day 32: February 4th, 2018
+**Today's Progress:** JS30 Day 7 and deployed a lamp stack on Digital Ocean
+
+
