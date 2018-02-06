@@ -180,4 +180,7 @@ got a good start on the Javascript as well.
 ### Day 32: February 4th, 2018
 **Today's Progress:** JS30 Day 7 and deployed a lamp stack on Digital Ocean
 
+### Day 33: February 5th, 2018
+**Today's Progress:** JS30 Day 8 and finished up the Grow with Google Code challenge.
+
 
