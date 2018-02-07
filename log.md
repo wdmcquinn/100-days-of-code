@@ -178,9 +178,18 @@ got a good start on the Javascript as well.
 **Today's Progress:** JS30 Day 6 and worked on timeclock project
 
 ### Day 32: February 4th, 2018
+
 **Today's Progress:** JS30 Day 7 and deployed a lamp stack on Digital Ocean
 
 ### Day 33: February 5th, 2018
+
 **Today's Progress:** JS30 Day 8 and finished up the Grow with Google Code challenge.
 
+### Day 34: February 6th, 2018
+
+**Today's Progress:** JS30 Day 9 and took the rest of the day to think about what to do next.
+
+### Day 35: February 7th, 2018
+
+**Today's Progress:** JS30 Day 10 and Continue where i left off on the Simon Project for FCC
 
