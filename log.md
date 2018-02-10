@@ -1,195 +1,150 @@
-# 100 Days Of Code - Log
+# #100DaysOfCode Log - Round 1 - [Doug McQuinn]
 
-### Day 0: January 1st, 2018
+The log of my #100DaysOfCode challenge. Started on [January 1st, 2018].
 
-**Today's Progress**: Started over on Tic Tac Toe project.
+## Log
 
-**Thoughts:** Today i got the project started on codepen. I decided on codepen for portability as I move from laptop to desktop to tablet about 10 times a day. 
+### R1D0 
+Restarted my Tic Tac Toe Project for @freecodecamp.
 
-I was able to get the basic html and css layout done and a little of the javascript. Tomorrow i want to focus on the function to check for a winning move.
+### R1D1
+More work on the Tic Tac Toe Project. 
+I worked on mostly the function to detect a win today. Im not sure its the most elegant way to do it but it seems to be more accurate and faster than some of the ways i tried. I also fixed a bug on the reset function and found out how to delay a function from firing using setTimeout. I used this to display a Message to the user before resetting the game.
 
-### Day 1: January 2nd, 2018
+###R1D2
+Finished up the first version of my FCC - Tic Tac Tow Project.
 
-**Today's Progress**: More work on FCC - Tic Tac Toe project.
+ In the future i would like to come back to this project and try to implement a better AI. The next project is simon. It looks like there will be a lot of new things to implement.
 
-**Thoughts:** I worked on mostly the function to detect a win today. Im not sure its the most elegant way to do it but it seems to be more accurate and faster than some of the ways i tried. I also fixed a bug on the reset function and found out how to delay a function from firing using setTimeout. I used this to display a Message to the user before resetting the game.
+**Check it out here:** [Tic Tac Toe](https://codepen.io/wdmcquinn/full/rpwOym/)
 
-### Day 2: January 3rd, 2018
-
-**Today's Progress**: Finished up the first version of my FCC - Tic Tac Tow Project.
-
-**Thoughs:** In the future i would like to come back to this project and try to implement a better AI. The next project is simon. It looks like there will be a lot of new things to implement.
-
-**Link to work:** [Tic Tac Toe](https://codepen.io/wdmcquinn/full/rpwOym/)
-
-### Day 3: January 4th, 2018
-
-**Today's Progress:** Start on the layout for the simon game.
-
-**Thoughs:** First things first is going to be to catch up on Flexbox for the layout.
+###R1D3
+Start on the layout for the simon game.
+First things first is going to be to catch up on Flexbox for the layout.
 
 
-### Day 4: January 5th, 2018
+###R1D4
+Spent today working on my HTML and CSS for the simon game.
+Tomorrow I will try to finish the layout and start on the Javascript.
 
-**Today's Progress:** Spent today working on my HTML and CSS for the simon game.
-
-**Thoughts:** Tomorrow I will try to finish the layout and start on the Javascript.
-
-### Day 5: January 6th, 2018
-
-**Today's Progress:** Finished up the HTML and most of the css for the simon priject. 
+###R1D5
+Finished up the HTML and most of the css for the simon priject. 
 got a good start on the Javascript as well.
 
-**Thoughts:** I noticed today that I was able to complete more in less time. It seems like im not spending as much time looking things up. 
+###R1D6
+Worked on some of the javascript for my simon project.
 
-### Day 6: January 7th, 2018
-
-**Today's Progress:** Worked on some of the javascript for my simon project.
-
-**Thoughts:** Will need a good way to flash the buttons for the AI. Im thinking about a css class and then adding the class and removeing it for each element in the array.
+Will need a good way to flash the buttons for the AI. Im thinking about a css class and then adding the class and removeing it for each element in the array.
 
 **Link to work:** [Simon Game](https://codepen.io/wdmcquinn/full/qpPrmM/)
 
-### Day 7: January 8th, 2018
+###R1D7
+Today i watched some intros to contributing on github. I spend some time looking for a project i can contribute to.
 
-**Today's Progress:** Today i watched some intros to contributing on github. I spend some time looking for a project i can contribute to.
+###R1D8
+Had a lot to do around the house. i managed to do a few lessons on flexbox and helped Destiny with some Javascript woes she was going theough.
 
-### Day 8: January 9th, 2018
+###R1D9
+Went through the introduction to the grow witb google program.
 
-**Today'# Progrsss:** Had a lot to do around the house. i managed to do a few lessons on flexbox and helped Destiny with some Javascript woes she was going theough.
+So excited. I found out i was selected for the Grow with Google Code Challenge Scholarship. I have 3 months to complete the first section and a chance to be invited to another 6 month program at the end.
 
-### Day 9: Januaru 10th, 2018
+###R1D10
+First day of Grow with Google. 
 
-**Today's Progress:**  Went through the introduction to the grow witb google program.
+I setup up slack on my desktop, laptop, and mobile. Also introduced myself and participated in the first AMA in the slack channel.  I completed the first course in the program a few months ago but i am going to review it to be sure. Really want to get the full MWD nano degree.
 
-**Thoughts:** So excited. I found out i was selected fornthe Grow with Google Code Challenge Scholarship. I have 3 months to complete the first section and a chance to be invited to another 6 month peogram at the end of the first.
+###R1D11
+Working on udacity course.
 
-### Day 10: January 11th, 2018
+I had to miss a few days as we have been really busy at home working on a remodel project. I have not gotten to spend more that 20 minutes or so programming for the last 2 days. I am back on track today. I have completed over an hour of the offline first class. It is really interesting so far.
 
-**Today's Progress:** First day of Grow with Google. 
+###R1D12
+Started learning how to use vim.
 
-**Thoughts:** I setup up slack on my desktop, laptop, and mobile. Also introduced myself and participated in the first AMA in the slack channel.  I completed the first course in the program a few months ago but i am going to review it to be sure. Really want to get the full MWD nano degree.
+I saw an article that gave me an idea on how to be more mobile. I have started watching videos on tmux and vim. Im thinking about setting up a server at home and using ssh to connect. With vim and tmux i can carry a ipad or surface pro and not worry about taking a laptop.
 
-### Day 11: January 14th, 2018
+###R1D13
+More progress on Service Workers.
 
-**Today's Progress:** Working on udacity course.
+I worked some more on my udacity course for mobile first. We covered more stuff about service workers. 
 
-**Thoughts:** I had to miss a few days as we have been really busy at home working on a remodel project. I have not gotten to spend more that 20 minutes or so programming for the last 2 days. I am back on track today. I have completed over an hour of the offline first class. It is really interesting so far.
+###R1D14
+More work on Service Workers.
 
-### Day 12: January 15th, 2018
+###R1D15
+Still working on Service workers today.
+The promise aspect of javascript is confusing. I need to work on it more.
 
-**Today's Progress:** Started learning how to use vim.
 
-**Thoughts:** I saw an article that gave me an idea on how to be more mobile. I have started watching videos on tmux and vim. Im thinking about setting up a server at home and using ssh to connect. With vim and tmux i can carry a ipad or surface pro and not worry about taking a laptop.
+###R1D16
+Getting close to finishing the Service worker portion.
 
-### Day 13: January 16th, 2018
+###R1D17
+Only two more lessons in this section. 
 
-**Today's Progress:** More progress on Service Workers.
+###R1D18
+Finished Offline First
 
-**Thoughts:** I worked some more on my udacity course for mobile first. We covered more stuff about service workers. 
+###R1D19
+Started the course on current Javascript Syntax
 
-### Day 14: January 17th, 2018
+###R1D20
+More ES6 with the Grow with Google Challenge today.
 
-**Today's Progress:** More work on Service Workers.
+###R1D21
+More ES6. 
 
-**Thoughts:** Worked on service workers again toady. This time it is about ux.
+###R1D22
+More ES6 with and fixed some dependencies on a few of my git hub repos. 
 
-### Day 15: January 18th, 2018
+###R1D23
+Code Fights practice to work on problem solving.
 
-**Today's Progress:** Still working on Service workers today.
+###R1D24
+Finished Lesson 6 and Started 7 for the Grow with Google Code Challenge.
 
+###R1D25
+Started Javascript30 Challenge.
 
-**Thoughts:** The promise aspect of javascript is confusing. I need to work on it more.
+This will give me the oppertunity to alternate between the Google Challenge and the Javascript 30 so i dont get burned out on one. I cloned the Javascript 30 repo and wathched the intro today. Tomorrow will be Google.
 
+###R1D26
+Completed Javascript 30 day 1 also worked on functions for Grow with google.
 
-### Day 16: January 19th, 2018
+###R1D27
+Completed JS30 day 2 and Stared on Javacript Classes in ES6.
 
-**Today's Progress:** Getting close to finishing the Service worker portion.
+###R1D28
+JS30 Day 3 and continue on ES6 Classes for GrowWithGoogle
 
-**Thoughts:**  Learing about IndexDB and Caching together.
+###R1D29
+JS30 Day 4 and ES6 for GrowWithGoogle plus starting on a tutorial series on youtube by Traversy Media on Nodejs for a upcoming project.
 
+###R1D30
+JS30 Day 5 and more ES6
 
-### Day 17: January 20th, 2018
+###R1D31
+JS30 Day 6 and worked on timeclock project
 
-**Today's Progress:** Only two more lessons in this section. 
+###R1D32
+JS30 Day 7 and deployed a lamp stack on Digital Ocean
 
+###R1D33
+JS30 Day 8 and finished up the Grow with Google Code challenge.
 
-### Day 18: January 21st, 2018
+I am still hanging out in the slack channel to help others. Its good practice and troubleshooting experience. I really enjoyed the course and I really hope Im selected for the full Nano Degree.
 
-**Today's Progress:**  Finished Offline First
+###R1D34
+JS30 Day 9 and took the rest of the day to think about what to do next.
 
-**Thoughts:** I finished up the section on offline first today. The next seciont deals with learing ES6. I already know a little from the React course i took. Looking forward to getting started.
+###R1D35
+JS30 Day 10 and Continue where i left off on the Simon Project for FCC
 
-### Day 19: January 22nd, 2018
+###R1D36
+JS30 Day 11 and more Free Code Camp Simon 
 
-**Today's Progress:** Started the course on current Javascript Syntax
+### R1D37
+JS30 Day 12 and Had to work on some docker issues today. I didnt realize that if you dont pass in a timezone variable it will default to UTC. This cuases major issues for a time sensitive app. 
 
-### Day 20: January 23rd, 2018
-
-**Today's Progress:** More ES6 with the Grow with Google Challenge today.
-
-**Thoughts:** Really like literal strings and the new for loops. 
-
-### Day 21: January 24th, 2018
-
-**Today's Progress:** More ES6 with the Grow with Google Challenge today.
-
-### Day 22: January 25th, 2018
-
-**Today's Progress:** More ES6 with and fixed some dependencies on a few of my git hub repos. 
-
-### Day 23: January 26th, 2018
-
-**Today's Progress:** Code Fights practice to work on problem solving.
-
-### Day 24: January 27th, 2018
-
-**Today's Progress:** Finished Lesson 6 and Started 7 for the Grow with Google Code Challenge.
-
-### Day 25: January 28th, 2018
-
-**Today's Progress:** Started Javascript30 Challenge.
-
-**Thoughts:** This will give me the oppertunity to alternate between the Google Challenge and the Javascript 30 so i dont get burned out on one. I cloned the Javascript 30 repo and wathched the intro today. Tomorrow will be Google.
-
-### Day 26: January 29th, 2018
-
-**Today's Progress:** Completed Javascript 30 day 1 also worked on functions for Grow with google.
-
-
-### Day 27: January 30th, 2018
-
-**Today's Progress:** Completed JS30 day 2 and Stared on Javacript Classes in ES6.
-
-### Day 28: January 31st, 2018
-
-**Today's Progress:** JS30 Day 3 and continue on ES6 Classes for GrowWithGoogle
-
-### Day 29: February 1st, 2018
-
-**Today's Progress:** JS30 Day 4 and ES6 for GrowWithGoogle plus starting on a tutorial series on youtube by Traversy Media on Nodejs for a upcoming project.
-
-### Day 30: February 2nd, 2018
-
-**Today's Progress:** JS30 Day 5 and more ES6
-
-### Day 31: February 3rd, 2018
-
-**Today's Progress:** JS30 Day 6 and worked on timeclock project
-
-### Day 32: February 4th, 2018
-
-**Today's Progress:** JS30 Day 7 and deployed a lamp stack on Digital Ocean
-
-### Day 33: February 5th, 2018
-
-**Today's Progress:** JS30 Day 8 and finished up the Grow with Google Code challenge.
-
-### Day 34: February 6th, 2018
-
-**Today's Progress:** JS30 Day 9 and took the rest of the day to think about what to do next.
-
-### Day 35: February 7th, 2018
-
-**Today's Progress:** JS30 Day 10 and Continue where i left off on the Simon Project for FCC
 
