@@ -147,4 +147,8 @@ JS30 Day 11 and more Free Code Camp Simon
 ### R1D37
 JS30 Day 12 and Had to work on some docker issues today. I didnt realize that if you dont pass in a timezone variable it will default to UTC. This cuases major issues for a time sensitive app. 
 
+### R1D38
+JS30 Day 13.
 
+### R1D39
+JS30 Day 14. Busy weekend. I did not get much done. Will get back on it tomorrorw.
