@@ -152,3 +152,10 @@ JS30 Day 13.
 
 ### R1D39
 JS30 Day 14. Busy weekend. I did not get much done. Will get back on it tomorrorw.
+
+### R1D40 
+JS30 Day 15 and Started a node api tutorial on Youtube.
+
+### R1D41
+JS30 Day 16 and Finishe Node API Tutorial from freecode camp. Will continue working on my Simon app this evening.
+
