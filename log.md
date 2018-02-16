@@ -159,3 +159,11 @@ JS30 Day 15 and Started a node api tutorial on Youtube.
 ### R1D41
 JS30 Day 16 and Finishe Node API Tutorial from freecode camp. Will continue working on my Simon app this evening.
 
+### R1D42
+JS30 Day 17 and started rewriting my javascript for the Simon Game
+
+### R1D43
+JS30 Day 18 and made progress with mongoose and nodejs. 
+
+### R1D44
+JS30 Day 19 and continue working on simon game.
