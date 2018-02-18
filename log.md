@@ -167,3 +167,7 @@ JS30 Day 18 and made progress with mongoose and nodejs.
 
 ### R1D44
 JS30 Day 19 and continue working on simon game.
+
+### R1D45
+JS30 Day 20. Also finished routes on my express API.
+
