@@ -172,5 +172,4 @@ JS30 Day 19 and continue working on simon game.
 JS30 Day 20. Also finished routes on my express API.
 
 ### R1D46
-JS30 Day 21. Sup
-
+JS30 Day 21.
