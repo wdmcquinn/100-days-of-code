@@ -227,3 +227,6 @@ JS30 Day 22 and worked with JWT and bcrypt on my api.
 ### R1D48
 
 JS30 Day 23 and worked on a Youtube tutorial on client rendering with express
+
+### R1D49
+JS30 Day 24.
