@@ -229,4 +229,24 @@ JS30 Day 22 and worked with JWT and bcrypt on my api.
 JS30 Day 23 and worked on a Youtube tutorial on client rendering with express
 
 ### R1D49
-JS30 Day 24.
+JS30 Day 24. Also started followind a MEAN Stack tutorial on Youtube.
+
+### R1D50
+JS30 Day 25. Half done and still going strong. I completed 2 videos on MEAN as well
+
+### R1D51
+JS30 Day 26 and more tutorials Today was about angular.
+
+### R1D52
+JS30 Day 28.
+
+### R1D53
+JS30 Day 29.
+
+### R1D54
+JS30 Day 30. Completed the JS30 Challenge. Started a Tutorial on Passport with JWT
+
+
+
+
+
