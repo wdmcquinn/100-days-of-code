@@ -247,6 +247,23 @@ JS30 Day 29.
 JS30 Day 30. Completed the JS30 Challenge. Started a Tutorial on Passport with JWT
 
 
+### R1D55
+
+### R1D56
 
 
+### R1D57
 
+Codewars today.
+
+### R1D58
+
+Some codewars and simon game
+
+### R1D59
+
+Working on Simon Game
+
+### R1D60
+
+Today i worked on my Simon games javascript logic. I think i have it now after following an example.
