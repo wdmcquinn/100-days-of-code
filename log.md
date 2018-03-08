@@ -249,8 +249,11 @@ JS30 Day 30. Completed the JS30 Challenge. Started a Tutorial on Passport with J
 
 ### R1D55
 
+Spent the day debugging code for a REST api.
+
 ### R1D56
 
+More debugging and some front end design work.
 
 ### R1D57
 
@@ -267,3 +270,9 @@ Working on Simon Game
 ### R1D60
 
 Today i worked on my Simon games javascript logic. I think i have it now after following an example.
+
+### R1D61
+
+I finished my Simon game today along with the front end portion of freecode camp and recieved my front end certificate.
+
+
