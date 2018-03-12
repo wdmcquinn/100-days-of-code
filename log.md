@@ -273,6 +273,21 @@ Today i worked on my Simon games javascript logic. I think i have it now after f
 
 ### R1D61
 
+More work on Simon Game.
+
+### R1D62
+
 I finished my Simon game today along with the front end portion of freecode camp and recieved my front end certificate.
 
+### R1D63
+
+Started working on the backend section of Free Code Camp
+
+### R1D64
+
+Sterted the node section of Free Code Camp. Started with how-to-npm.
+
+### R1D65
+
+I Finished up the first node challenge on Free Code Camp and moved to the next on. Got about 3 steps done and 10 to go.
 
