@@ -291,3 +291,18 @@ Sterted the node section of Free Code Camp. Started with how-to-npm.
 
 I Finished up the first node challenge on Free Code Camp and moved to the next on. Got about 3 steps done and 10 to go.
 
+### R1D66
+
+    Working on @freecodecamp
+
+### R1D67
+
+    Working on @freecodecamp
+
+### R1D68
+
+    Working through The Web Developer Bootcamp on Udemy.
+
+### R1D69
+
+    More of The Web Developer Bootcamp on Udemy.
