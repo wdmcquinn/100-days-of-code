@@ -306,3 +306,16 @@ I Finished up the first node challenge on Free Code Camp and moved to the next o
 ### R1D69
 
     More of The Web Developer Bootcamp on Udemy.
+
+### R1D70
+
+    Exercises on codewars.
+
+### R1D71
+
+    More Developer Bootcam on Udemy.
+
+### R1D72
+
+    Codewars and Developer Bootcamp on Udemy.
+    
