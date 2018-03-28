@@ -318,4 +318,34 @@ I Finished up the first node challenge on Free Code Camp and moved to the next o
 ### R1D72
 
     Codewars and Developer Bootcamp on Udemy.
+
+### R1D73
+
+    More codewars and Dev Bootcamp on udemy.
+
+### R1D74
+
+    Freecodecamp and Codewars
+
+### R1D75
+
+    Larning some design fundementals with Inkscape and Gimp
+
+### R1D76
+
+    Started a new react project
+
+### R1D77
+
+    Refactoring some of my old php code for an upcoming project
+
+### R1D78
+
+    Worked on my nodejs api with JWT auth tokens
+
+### R1D79
+
+    Working on react authentication project
+
+
     
