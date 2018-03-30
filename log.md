@@ -347,5 +347,13 @@ I Finished up the first node challenge on Free Code Camp and moved to the next o
 
     Working on react authentication project
 
+### R1D80
+
+    Decided to use Vue.js for the Mileage Tracking project. Started a tutorial on Vue.
+
+### R1D81 
+
+    Continue following the tutorial on vue. The tutorial is perfect it is using the exact stack i want to stick with.
+
 
     
