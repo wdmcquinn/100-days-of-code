@@ -347,5 +347,19 @@ I Finished up the first node challenge on Free Code Camp and moved to the next o
 
     Working on react authentication project
 
+### R1D80
 
-    
+    After much deliberation i have decided that i am going to concentrate on Vue.js for now. I am joing to use Node, Express, & Sequelize on the backend. Hopeully this will allow me to focus on just one thing and complete the project
+
+
+### R1D81
+
+    Started following a Tutorial Series on Vue.js I got about half way throug the first hour long video.
+
+### R1D82
+
+    Finished Video 1. I really like the intstructor he give more details than some of the guide I have followed.
+
+### R1D83
+
+    Started on Video 2 of the series. Still trucking along.
