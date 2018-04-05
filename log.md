@@ -351,7 +351,6 @@ I Finished up the first node challenge on Free Code Camp and moved to the next o
 
     After much deliberation i have decided that i am going to concentrate on Vue.js for now. I am joing to use Node, Express, & Sequelize on the backend. Hopeully this will allow me to focus on just one thing and complete the project
 
-
 ### R1D81
 
     Started following a Tutorial Series on Vue.js I got about half way throug the first hour long video.
@@ -363,3 +362,9 @@ I Finished up the first node challenge on Free Code Camp and moved to the next o
 ### R1D83
 
     Started on Video 2 of the series. Still trucking along.
+
+### R1D84
+
+    Finished Video 2. Still very happy with this series.
+
+    
