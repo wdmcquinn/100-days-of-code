@@ -367,4 +367,30 @@ I Finished up the first node challenge on Free Code Camp and moved to the next o
 
     Finished Video 2. Still very happy with this series.
 
-    
+### R1D85
+
+    More vue.js today
+
+### R1D86
+
+    Played around with some vue styling on my own today.
+
+### R1D87
+
+    Working on getting my toolset down. I have a few computers and i use VSCode on them all but the extensions are different and i want to have the same setup everywhere. I also want to figure out a way to sync the settings accross multiple machines. Dropbox or something similar.
+
+### R1D88
+
+    Back the the vue tutorials.
+
+### R1D89
+
+    More videos today.
+
+### R1D90
+
+    Started on the 4th video in the series by @freecodecamp on vue
+
+### R1D91
+
+    Working on my SQL sytax today. I had to clean up a report i wrote a few years ago and it made me realize i needed to keep practicing.
