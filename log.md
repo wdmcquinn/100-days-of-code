@@ -394,3 +394,41 @@ I Finished up the first node challenge on Free Code Camp and moved to the next o
 ### R1D91
 
     Working on my SQL sytax today. I had to clean up a report i wrote a few years ago and it made me realize i needed to keep practicing.
+    
+### R1D92
+
+   Today i working on desings for front end with Vue and Vuetify. 
+   
+### R1D93
+
+   Working on the new materials in the #GrowWithGoogle  Udacity Course. Anxiously awaiting the news tomorrow about next steps.
+
+### R1D94
+ 
+   its official I was selected for the @udacity #GrowWithGoogle  Developer Scholarship for Mobile Web. I am super excited to get started.  Also worked more on my Vue.js App today.
+   
+### R1D95
+
+   Worked more on my Vue.js Application. I need to finish it up this week so i can be ready to start my #GrowWithGoogle @udacity Mobile Web Nanodegree Tuesday
+   
+### R1D96
+
+   More Vue.js. Should be done with the demo app tomorrow.
+
+### R1D97
+
+   Did some more vue.js and some codewars.
+   
+### R1D98
+
+   worked on @freeCodeCamp today.
+   
+### R1D99
+
+   Reviewing content from the first 3 months of the Grow With Google Challenge to get ready for the course start Tuesday.
+   
+### R1D100
+
+   Well i made it to day 100. It has been a great learning experience and a helped me build the habit of coding every single day. Today i am reviewing more for my #growwithgoogle nanodegree program that starts tomorrow and working on finishing up a Vue project that i am working on.
+
+   
